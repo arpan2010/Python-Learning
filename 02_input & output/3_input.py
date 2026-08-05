@@ -7,3 +7,5 @@ print("Weight in KG" ,b)
 print(c)
 print("my bike number" ,d , "my car number" , f)
 
+
+#use to commit single line or to commit multiple lines - ctrl + /
