@@ -1,10 +1,10 @@
-# x = 10
-# del x
-# print (x)
+x = 10
+del x
+print (x)
 
-# a , b = 10 , 20                 #swapping two variables
-# a , b = b , a
-# print(a ,b)
+a , b = 10 , 20                 #swapping two variables
+a , b = b , a
+print(a ,b)
 
 word = "GeeksforGeeks"
 length = len(word)                  #Counting Characters in a String
