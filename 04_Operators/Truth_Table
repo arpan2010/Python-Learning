@@ -1,0 +1,25 @@
+and
+
+| a | b | Result |
+| - | - | ------ |
+| T | T | T      |
+| T | F | F      |
+| F | T | F      |
+| F | F | F      |
+
+or
+
+| a | b | Result |
+| - | - | ------ |
+| T | T | T      |
+| T | F | T      |
+| F | T | T      |
+| F | F | F      |
+
+
+not
+
+| a | Result |
+| - | ------ |
+| T | F      |
+| F | T      |
