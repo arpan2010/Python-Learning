@@ -42,3 +42,20 @@ print (o == p)
 print (o is p)
 print (o is not p )
 print (o != p)
+
+x = 24
+y = 32
+z = 41
+my_table = [8,16,24,32,40,48]
+if ( x not in my_table):
+    print ("x is not in my_table list")
+else:
+    print ("x is in my_table list")
+if ( y  not in my_table):
+    print ("y is not in my_table list")
+else:
+    print (" y is in my_table list")
+if ( z  not in my_table):
+    print (" z is not in my_table list")
+else:
+    print ("z is in my_table list")
