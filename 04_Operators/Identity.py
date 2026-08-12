@@ -59,3 +59,37 @@ if ( z  not in my_table):
     print (" z is not in my_table list")
 else:
     print ("z is in my_table list")
+
+
+a = "Arpan"
+b = "Ruthik"
+c = "Vrushali"
+d = "Prashant"
+Student_list = ["Aditi" , "Aniket" , "Arpan" , "Abhishekh" , "Vrushali" , "Ruthik"]
+if (a not in Student_list):
+    print("No student with this name is in list")
+else:
+    print("There is student with this name in list")
+if (b not in Student_list):
+    print("No student with this name is in list")
+else:
+    print("There is student with this name in list")
+if (c not in Student_list):
+    print("No student with this name is in list")
+else:
+    print("There is student with this name in list")
+if (d not in Student_list):
+    print("No student with this name is in list")
+else:
+    print("There is student with this name in list")
+
+
+
+
+
+
+
+
+
+
+
