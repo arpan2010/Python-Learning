@@ -8,3 +8,8 @@ The list of keywords are :
  'else', 'except', 'finally', 'for', 'from', 'global', 'if',
  'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass',
  'raise', 'return', 'try', 'while', 'with', 'yield']
+
+
+They define the rules and structure of Python
+programs which means you cannot use them as names for
+your variables, functions, classes or any other identifiers.
