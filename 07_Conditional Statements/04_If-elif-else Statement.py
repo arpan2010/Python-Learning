@@ -1,5 +1,5 @@
 marks = 80
-if marks >= 85:
+if marks >= 82:
     print("Grade A")
 elif marks >= 70:
     print("Grade B")
