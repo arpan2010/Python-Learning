@@ -1,9 +1,9 @@
 def nameAge(name , age):
     print("My name is", name)
     print("I am ", age , "years old")
-print("Case 1")
+print("Case A")
 nameAge("Radhika" , 25)
-print("Case 2")
+print("Case B")
 nameAge(25 , "Radhika")
 
 def student(name , age , course):
