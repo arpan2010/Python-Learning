@@ -28,6 +28,7 @@ print(age >= 18 or has_id)  #False or True → True
 is_student = True
 print(not is_student)
 
+
 is_logged_in = False
 if is_logged_in:
     print("Welcome!")
