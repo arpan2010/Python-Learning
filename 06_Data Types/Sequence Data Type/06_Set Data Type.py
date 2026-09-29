@@ -4,7 +4,7 @@ print(number)
 
 # Set automatically removes duplicate values
 number = {10, 20, 20, 30, 30, 40 , 15}
-print(number
+print(number)
 
 # sorted() returns the Set elements in ascending order as a List
 number = {10, 20, 20, 30, 30, 40 , 15}
